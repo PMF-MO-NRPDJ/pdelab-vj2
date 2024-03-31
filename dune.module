@@ -1,0 +1,12 @@
+################################
+# Dune module information file #
+################################
+
+# Name of the module
+Module: pdelab-vj2
+Version: 1.0
+Maintainer: jurak@math.hr
+# Required build dependencies
+Depends: dune-common dune-uggrid dune-geometry dune-localfunctions dune-grid dune-istl dune-typetree dune-functions dune-alugrid dune-pdelab
+# Optional build dependencies
+#Suggests:
